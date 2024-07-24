@@ -17,3 +17,5 @@ Bu proje, Clarusway tarafından sunulan çeşitli kariyer yollarını gösteren 
 - CSS3 (Grid Layout, Flexbox)
 - Duyarlı Tasarım
 - Google Fonts API
+
+![Clarusway](./img/video.mp4)
