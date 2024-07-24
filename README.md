@@ -18,4 +18,6 @@ Bu proje, Clarusway tarafından sunulan çeşitli kariyer yollarını gösteren 
 - Duyarlı Tasarım
 - Google Fonts API
 
+![Cw](./img/image.jpg)
+
 [Canlı Demo'yu Deneyin](https://cpaths.netlify.app)
