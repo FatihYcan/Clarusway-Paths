@@ -21,3 +21,7 @@ Bu proje, Clarusway tarafından sunulan çeşitli kariyer yollarını gösteren 
 ![Cw](./img/image.jpg)
 
 [Canlı Demo'yu Deneyin](https://cpaths.netlify.app)
+
+https://github.com/user-attachments/assets/2b1deadb-48ad-4cc3-8fa7-13570c90b427
+
+
