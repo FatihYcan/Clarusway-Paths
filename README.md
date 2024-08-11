@@ -1,22 +1,24 @@
-# Clarusway Paths
+# ClaruswayPaths
 
-This project showcases a responsive web page that showcases the various career paths offered by Clarusway.
+This project promotes Clarusway training programs. The web page is designed to inform and attract users by introducing courses in various technology fields.
 
-## Used technologies
+## Technologies Used
+
 - HTML5
-- CSS3 (Grid Layout, Flexbox)
+- CSS3
 - Responsive Design
-- Google Fonts API
+- Google Fonts
 
 # Clarusway Paths
 
-Bu proje, Clarusway tarafından sunulan çeşitli kariyer yollarını gösteren duyarlı bir web sayfasını sergiliyor.
+Bu proje, Clarusway eğitim programlarının tanıtımını yapmaktadır. Web sayfası, çeşitli teknoloji alanlarındaki kursları tanıtarak, kullanıcıları bilgilendirmek ve ilgilerini çekmek amacıyla tasarlanmıştır.
 
 ## Kullanılan Teknolojiler
+
 - HTML5
-- CSS3 (Grid Layout, Flexbox)
+- CSS3
 - Duyarlı Tasarım
-- Google Fonts API
+- Google Fonts 
 
 https://github.com/user-attachments/assets/0a681170-e326-40b9-8d72-4de42a38fe80
 
